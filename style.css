@@ -253,6 +253,7 @@
     border-radius: 5rem;
     font-size: xx-large;
     background-color: white;
+    
 }
 
 .square{
@@ -262,6 +263,7 @@
     font-size: x-large;
     text-decoration: none;
     color: black;
+    cursor: pointer;
 
 
 }
